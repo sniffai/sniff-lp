@@ -499,13 +499,13 @@ $SNIFFを使うことで、あなたはWeb3を探索しながら現実世界の�
           {t.title}
         </motion.h1>
         <p className="text-xl text-zinc-300 mt-6 leading-relaxed">{t.subtitle}</p>
-        <a href="#sniffs" className="inline-block mt-8 px-8 py-4 bg-orange-500 hover:bg-orange-600 rounded-full text-white text-lg font-semibold shadow-lg transition-all">
+        <a href="#mission" className="inline-block mt-8 px-8 py-4 bg-orange-500 hover:bg-orange-600 rounded-full text-white text-lg font-semibold shadow-lg transition-all">
           {t.cta}
         </a>
       </section>
 
       {[['why', 'whyText'], ['how', 'howText'], ['utility', 'utilityList'], ['giveBack', 'giveBackText'], ['roadmap', 'roadmapItems']].map(([headingKey, contentKey], i) => (
-        <section key={headingKey} className="mt-20 max-w-4xl mx-auto px-4">
+        <section id="mission" key={headingKey} className="mt-20 max-w-4xl mx-auto px-4">
           <h2 className="text-3xl font-bold text-orange-300 mb-4 border-b border-orange-400 pb-2">{t[headingKey]}</h2>
           {Array.isArray(t[contentKey]) ? (
             <ul className="list-disc pl-6 text-zinc-300 space-y-2">
