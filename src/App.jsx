@@ -1,9 +1,24 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import { useState } from 'react';
 import { motion } from 'framer-motion';
 import './index.css';
 
 export default function App() {
+  useEffect(() => {
+    const gaScript = document.createElement('script');
+    gaScript.async = true;
+    gaScript.src = 'https://www.googletagmanager.com/gtag/js?id=G-CHPW4QTXZ2';
+    document.head.appendChild(gaScript);
+    const initScript = document.createElement('script');
+    initScript.innerHTML = `
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){ dataLayer.push(arguments); }
+      gtag('js', new Date());
+      gtag('config', 'G-CHPW4QTXZ2');
+    `;
+    document.head.appendChild(initScript);
+  }, []);
+  
   const [lang, setLang] = useState('en');
 
   const translations = {
