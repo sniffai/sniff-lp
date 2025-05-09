@@ -1,0 +1,14 @@
+# robots.txt
+
+User-agent: *
+# 全てのクローラーに全ページのクロールを許可
+Allow: /
+
+# 管理画面や不要なディレクトリはブロック例
+Disallow: /wp-admin/
+Disallow: /private/
+# API エンドポイントもブロックしたい場合
+Disallow: /api/
+
+# sitemap の場所を通知
+Sitemap: https://sniffprotocol.com/sitemap.xml
