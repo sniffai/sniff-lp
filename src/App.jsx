@@ -524,8 +524,13 @@ $SNIFFを使うことで、あなたはWeb3を探索しながら現実世界の�
           {t.title}
         </motion.h1>
         <p className="text-xl text-zinc-300 mt-6 leading-relaxed">{t.subtitle}</p>
-        <a href="#mission" className="inline-block mt-8 px-8 py-4 bg-orange-500 hover:bg-orange-600 rounded-full text-white text-lg font-semibold shadow-lg transition-all">
-          {t.cta}
+        <a
+          href="https://pump.fun/coin/AZQhrBRYXBNtLo97C6s2X4yFK2XDRCtwwVSVU9TJpump"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-block mt-4 px-8 py-3 bg-green-500 hover:bg-green-600 rounded-full text-white text-base font-semibold shadow transition-all"
+        >
+          Buy SNIFFAI Token
         </a>
       </section>
 
