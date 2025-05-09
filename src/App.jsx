@@ -532,6 +532,14 @@ $SNIFFを使うことで、あなたはWeb3を探索しながら現実世界の�
 
       <footer className="text-center mt-32 text-zinc-500 text-sm border-t border-zinc-700 pt-8">
         <p>{t.footer}</p>
+        <a
+          href="https://x.com/SniffAIprotocol"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-block mt-2 text-orange-400 hover:underline"
+         >
+        Follow us on X (formerly Twitter)
+  </a>
       </footer>
     </main>
   );
