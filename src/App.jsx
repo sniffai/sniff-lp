@@ -8,7 +8,7 @@ export default function App() {
 
   const translations = {
     en: {
-      title: 'Sniff 🐶 – The AI Dog Sniffing Out Airdrops and Injustice',
+      title: 'Sniff – The AI Dog Sniffing Out Airdrops and Injustice',
       subtitle: 'Sniff is your AI-powered watchdog – hunting valuable airdrops and challenging real-world cruelty.',
       cta: '🚀 Explore the Sniff Mission',
       footer: 'Built by humans. Powered by dogs. Driven by justice. © 2025 Sniff Protocol',
@@ -125,7 +125,7 @@ demoSniffs: [
 
     },
     ja: {
-      title: 'Sniff 🐶 – エアドロと不正を嗅ぎ分けるAI犬',
+      title: 'Sniff – エアドロと不正を嗅ぎ分けるAI犬',
       subtitle: 'SniffはAIで動く番犬です。価値あるエアドロップと、世界の不条理を嗅ぎつけます。',
       cta: '🚀 Sniffの使命を知る',
       footer: '人が作り、犬が嗅ぎ、正義が動く。© 2025 Sniff Protocol',
@@ -237,7 +237,7 @@ $SNIFFを使うことで、あなたはWeb3を探索しながら現実世界の�
       ]      
     },
     zh: {
-      title: 'Sniff 🐶 – AI 狗狗侦测空投与不公',
+      title: 'Sniff – AI 狗狗侦测空投与不公',
       subtitle: 'Sniff 是你的 AI 守护犬 – 寻找有价值的空投，挑战现实世界的残酷。',
       cta: '🚀 探索 Sniff 使命',
       footer: '由人类打造。由狗狗驱动。以正义为导向。© 2025 Sniff 协议',
@@ -360,7 +360,7 @@ $SNIFFを使うことで、あなたはWeb3を探索しながら現実世界の�
       ]
     },    
     ko: {
-      title: 'Sniff 🐶 – 에어드롭과 부조리를 추적하는 AI 강아지',
+      title: 'Sniff – 에어드롭과 부조리를 추적하는 AI 강아지',
       subtitle: 'Sniff는 당신의 AI 감시견입니다 – 가치 있는 에어드롭을 찾고 현실의 부조리에 맞섭니다.',
       cta: '🚀 Sniff 미션 살펴보기',
       footer: '사람이 만들고, 강아지가 구동하며, 정의로 이끕니다. © 2025 Sniff 프로토콜',
