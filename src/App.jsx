@@ -78,7 +78,7 @@ Sniff doesn’t just tell you “what’s hot”—it explains why. It gives you
 This isn’t sentiment analysis. It’s infrastructure-grade AI vigilance—built to scale, built to detect, built to be trusted.
 
 Sniff Score: because in Web3, trust isn't given. It's sniffed out.`,
-      utility: 'What $SNIFF Token Does',
+      utility: 'What $SNIFFAI Protocol Token Does',
       utilityList: [
         "Unlocks personalized airdrop dashboards, real-time cross-chain sniff alerts, and scoring insights powered by decentralized multi-agent AI.",
         "No-code interface to train your own custom AI agent—tailored for specific domains (DeFi, Memecoin, NFT) or scam-immune behavior patterns.",
@@ -216,7 +216,7 @@ $SniffAI Protocol（Virtual Protocol上）
       
       Sniffスコア──Web3では信頼は与えられるものではない。嗅ぎ当てるものだ。`,
       
-      utility: '$SNIFFトークンの機能',
+      utility: '$SNIFFAI Protocolの機能',
       utilityList: [
         "パーソナライズされたエアドロップダッシュボード、クロスチェーン通知、AIスコアリング機能にアクセス可能。",
         "ノーコードで自分だけのAIスニファーを育成。DeFiやミームコイン特化型、詐欺耐性型など好みに最適化可能。",
@@ -342,7 +342,7 @@ SniffAI Protocol，就是我们一起走向未来的方式。
     这不仅是情绪分析——是基础设施级 AI 警觉系统，具备可扩展性、检测力与可信性。
     
     Sniff Score：在 Web3 中，信任不是给予的——而是嗅出来的。`,
-      utility: '$SNIFF 的作用',
+      utility: '$SNIFFAI Protocol 的作用',
       utilityList: [
         "解锁个性化空投仪表板、跨链实时嗅探提醒、AI 评分详情。",
         "通过零代码界面训练你的专属 AI 代理（支持 DeFi、Memecoin、NFT 或防诈骗行为模式）。",
@@ -482,7 +482,7 @@ SniffAI Protocol，就是我们一起走向未来的方式。
     이건 단순한 감성 분석이 아닙니다. 인프라 수준의 AI 감시 시스템입니다.
     
     Web3에서 신뢰는 주어지는 것이 아닙니다—嗅ぎ分けられる 것입니다.`,
-      utility: '$SNIFF 토큰의 역할',
+      utility: '$SNIFFAI Protocol 토큰의 역할',
       utilityList: [
         "개인 맞춤형 에어드롭 대시보드, 실시간 멀티체인 탐지 알림, AI 점수 데이터 해제",
         "DeFi, 밈코인, NFT 등 도메인별 커스텀 AI 에이전트를 코드 없이 직접 훈련",
