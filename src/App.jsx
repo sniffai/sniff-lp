@@ -576,7 +576,7 @@ SniffAI Protocol，就是我们一起走向未来的方式。
           className="inline-block mt-4 px-8 py-3 bg-green-500 hover:bg-green-600 rounded-full text-white text-base font-semibold shadow transition-all"
         >
           Buy $SNIFFAI Token
-        </a>
+        </a>　
         <a
           href="#mission"
           target="_blank"
